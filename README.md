@@ -1,3 +1,3 @@
-# container-tutorial
+# Container-tutorial
 
-This repository for learning-purpose
+This repository is for learning-purpose
